@@ -6,8 +6,6 @@
 // Sumamos las cantidades de monedas de los tres amigos 
 // let total = hugo + paco + luis;
 
-
-
 function calculaMonedas(total) {
     let hugo, paco, luis;
     // total = hugo + 2*hugo + 2*hugo + 10;
